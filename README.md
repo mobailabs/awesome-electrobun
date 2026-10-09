@@ -118,6 +118,7 @@ English | [简体中文](./README.zh-CN.md)
 - **crander7/devlog** — Local-first productivity app (sessions/todos/notes/habits/pomodoro) with tray + optional CLI; built with Electrobun + React + SQLite (Drizzle). https://github.com/crander7/devlog
 - **okikeSolutions/guerillaglass** — Open-source creator studio (record → edit → deliver) with hybrid architecture: Electrobun + React/Tailwind shell and native media engines (Swift on macOS; stubs/native WIP for Windows/Linux). https://github.com/okikeSolutions/guerillaglass
 - **openclaw-infra/clawflow-desk** — Ultra-lightweight AI CLI configuration manager built with Electrobun. https://github.com/openclaw-infra/clawflow-desk
+- **gloom-sh/gloomberb** — Open-source finance terminal (quotes, charts, news, filings, portfolios); the macOS and Windows desktop app is built with Electrobun and shares its command language and plugin system with the terminal UI. https://github.com/gloom-sh/gloomberb
 
 ## Commercial Apps
 
