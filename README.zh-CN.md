@@ -118,6 +118,7 @@
 - **crander7/devlog** — 本地优先的生产力应用（会话/待办/笔记/习惯/番茄钟），支持托盘 + 可选 CLI；基于 Electrobun + React + SQLite (Drizzle) 构建。https://github.com/crander7/devlog
 - **okikeSolutions/guerillaglass** — 开源创作者工作室（录制 → 编辑 → 交付），混合架构：Electrobun + React/Tailwind shell 和原生媒体引擎（macOS 上用 Swift；Windows/Linux 的 stub/原生实现进行中）。https://github.com/okikeSolutions/guerillaglass
 - **openclaw-infra/clawflow-desk** — 基于 Electrobun 构建的超轻量级 AI CLI 配置管理器。https://github.com/openclaw-infra/clawflow-desk
+- **lcestou/upkeep** — Linux 托盘应用，统一更新 AppImage、发布页二进制、.deb/.rpm 文件、源码构建和自更新的命令行工具，更新前自动创建还原点并在失败时回滚；自身通过 Electrobun 更新器升级。基于 Electrobun + Svelte 5 构建。https://github.com/lcestou/upkeep
 
 ## 商业应用
 

@@ -118,6 +118,7 @@ English | [简体中文](./README.zh-CN.md)
 - **crander7/devlog** — Local-first productivity app (sessions/todos/notes/habits/pomodoro) with tray + optional CLI; built with Electrobun + React + SQLite (Drizzle). https://github.com/crander7/devlog
 - **okikeSolutions/guerillaglass** — Open-source creator studio (record → edit → deliver) with hybrid architecture: Electrobun + React/Tailwind shell and native media engines (Swift on macOS; stubs/native WIP for Windows/Linux). https://github.com/okikeSolutions/guerillaglass
 - **openclaw-infra/clawflow-desk** — Ultra-lightweight AI CLI configuration manager built with Electrobun. https://github.com/openclaw-infra/clawflow-desk
+- **lcestou/upkeep** — Linux tray app that keeps AppImages, release binaries, .deb/.rpm files, source builds and self-updating CLI tools up to date, with restore points and rollback; updates itself with Electrobun's updater. Built with Electrobun + Svelte 5. https://github.com/lcestou/upkeep (linux, updater, tray)
 
 ## Commercial Apps
 
