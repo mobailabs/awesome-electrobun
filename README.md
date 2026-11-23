@@ -118,11 +118,11 @@ English | [简体中文](./README.zh-CN.md)
 - **crander7/devlog** — Local-first productivity app (sessions/todos/notes/habits/pomodoro) with tray + optional CLI; built with Electrobun + React + SQLite (Drizzle). https://github.com/crander7/devlog
 - **okikeSolutions/guerillaglass** — Open-source creator studio (record → edit → deliver) with hybrid architecture: Electrobun + React/Tailwind shell and native media engines (Swift on macOS; stubs/native WIP for Windows/Linux). https://github.com/okikeSolutions/guerillaglass
 - **openclaw-infra/clawflow-desk** — Ultra-lightweight AI CLI configuration manager built with Electrobun. https://github.com/openclaw-infra/clawflow-desk
+- **cwdx/out-to-sea** — Mac menu bar break app built with Electrobun, Vue and a live WebGPU sea. https://github.com/cwdx/out-to-sea
 
 ## Commercial Apps
 
 - *(If you ship a commercial app with Electrobun and want it listed, open a PR — optional: include a short description and website link.)*
-- **cwdx/out-to-sea** — Mac menu bar break app built with Electrobun, Vue and a live WebGPU sea. https://github.com/cwdx/out-to-sea
 
 ## Articles
 
