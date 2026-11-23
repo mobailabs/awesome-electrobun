@@ -122,6 +122,7 @@ English | [简体中文](./README.zh-CN.md)
 ## Commercial Apps
 
 - *(If you ship a commercial app with Electrobun and want it listed, open a PR — optional: include a short description and website link.)*
+- **cwdx/out-to-sea** — Mac menu bar break app built with Electrobun, Vue and a live WebGPU sea. https://github.com/cwdx/out-to-sea
 
 ## Articles
 
